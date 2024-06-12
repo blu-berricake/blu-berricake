@@ -18,9 +18,6 @@
 💞️ **my wife** = "arashi narukami/hj" ✨
 <br>
 
----
-🍒 **more info** = "um hello guys if you're seeing this then my account's finally not flagged yippeee"
-
 <!---
 blu-berricake/blu-berricake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
