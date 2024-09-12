@@ -2,17 +2,17 @@
 ![image of arashi narukami](https://static.wikia.nocookie.net/ensemble-stars/images/4/48/KR_Enstars%21%21_Stickers_1_Arashi.png/revision/latest?cb=20220203051323)
 
 ---
-❣️ **aliases** = "**blu**/melon/hmm" ✨
+❣️ **aliases** = "**blu**" ✨
 <br>
 🫐 **age** = "**7teen**" ✨
 <br>
 🍎 **pronouns** = "**they/them** or any" ✨
 <br>
-🍊 **programming langs** = "**javascript**, python (still learning)" ✨
+🍊 **programming langs** = "**javascript**, lua" ✨
 <br>
-🍈 **operating system(s)** = "**windows** (for now)" ✨
+🍈 **operating system(s)** = "**windows**, **fedora**" ✨
 <br>
-🍒 **other skills** = "**beginner vector artist**" ✨
+🍒 **other skills** = "**beginner vector artist**, digital artist" ✨
 
 ---
 🍓 **main interest** = "ensemble stars" ✨
