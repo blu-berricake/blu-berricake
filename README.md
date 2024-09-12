@@ -21,7 +21,7 @@
 <br>
 
 ---
-💭 **more info** = "i'm not very active on github i just use this place to submit my projects that i've made since i'm still learning rn my main form of communication is disord so if you want to contact me then dm me please" ✨
+💭 **more info** = "i'm still a beginner and i'm not very active on github i just use this place to submit my projects that i've made since i'm still learning rn my main form of communication is disord so if you want to contact me then dm me please" ✨
 <!---
 blu-berricake/blu-berricake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
